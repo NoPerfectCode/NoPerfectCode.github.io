@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "초급개발자 둘이 만든 팀입니다."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : | "완벽하진 않지만 완벽에 가까운 코드를 만드는 개발자가 되려고 합니다."
-                       "틀린내용은 언제든 지적 해주시면 감사하겠습니다."
+  bio              : | "완벽하진 않지만 완벽에 가까운 코드를 만드는 개발자가 되려고 합니다. "
+                       "틀린 내용은 언제든 지적해주시면 감사하겠습니다."
   location         : "Somewhere"
   email            :
   links:
