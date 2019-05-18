@@ -19,7 +19,9 @@ locale                   : "en-US"
 title                    : "완벽한 코드는 없다"
 title_separator          : "-"
 name                     : "완벽한 코드는 없다"
-description              : "An amazing website."
+description              : "초급개발자 둘이 만든 팀입니다.\n
+                            완벽하진않지만 완벽에 가까운코드를 만드는 개발자가 되려고 합니다.\n
+                            틀린내용은 언제든 지적 해주시면 감사하겠습니다."
 url                      : "https://noperfectcode.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
